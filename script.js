@@ -8,7 +8,7 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-  <title>My Portfolio — Nithya</title>
+  <title>My Portfolio — Nandhini</title>
 
   <!-- Simple, clean styling -->
 
@@ -318,7 +318,7 @@
 
       <h2>About Me</h2>
 
-      <p class="lead">Hello! I am <strong>Nithy</strong>, passionate about web development and programming. I enjoy learning new technologies and building creative projects.</p>
+      <p class="lead">Hello! I am <strong>Nithya</strong>, passionate about web development and programming. I enjoy learning new technologies and building creative projects.</p>
 
     </section>
 
@@ -418,11 +418,11 @@
 
       <h2>Contact Me</h2>
 
-      <p class="muted">Email: <a href="mailto bnithya020@gmail.com">bnithya020@gmail.com</a></p>
+      <p class="muted">Email: <a href="mailto: bnithya020@gamail.com">bnithya020@gamail.com</a></p>
 
       <p class="muted">LinkedIn: <a href="https://linkedin.com/in/yourprofile" target="_blank" rel="noopener">linkedin.com/in/yourprofile</a></p>
 
-      <p class="muted">Phone: <a href="tel:+91989470296">+91 9894270296</a></p>
+      <p class="muted">Phone: <a href="tel:+916381811754">+91 63818 11754</a></p>
 
       <hr style="margin:14px 0; border:none; height:1px; background:#eef2f6;">
 
@@ -450,7 +450,7 @@
 
   <footer>
 
-    <p>© 2025 Nithya | All Rights Reserved</p>
+    <p>© 2025 Nithya| All Rights Reserved</p>
 
   </footer>
 
